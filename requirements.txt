@@ -6,3 +6,4 @@ Pillow
 boto3
 pydantic>=2.0
 tqdm
+pynrrd>=1.0

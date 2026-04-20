@@ -24,7 +24,7 @@ if str(_PHASE2) not in sys.path:
     sys.path.insert(0, str(_PHASE2))
 
 import importlib
-_phase2_mod = importlib.import_module("m037_amos")
+_phase2_mod = importlib.import_module("m112_hanseg")
 
 
 class TaskPipeline(BasePipeline):
